@@ -11,8 +11,8 @@ rebuild each piece of that harness by hand and measure what it actually changes.
 
 Everything here was written for the [IA4Dev training school](https://ia4dev-2026.sciencesconf.org/)
 (19 to 22 October 2026), for people in higher education and research who already code. The
-course does not try to convince anyone to use AI. It takes the next question: how to use it
-well, if you choose to.
+course does not try to convince anyone to use AI. It measures what these agents actually do
+on code that already exists, over many runs rather than one.
 
 <p>
   <picture>
