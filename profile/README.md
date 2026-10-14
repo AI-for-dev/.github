@@ -5,9 +5,9 @@
   </picture>
 </h1>
 
-Course material and small tools for using coding agents well. The model varies from one
-run to the next; what you can change is the harness around it, so we rebuild each piece of
-that harness by hand and measure what it actually changes.
+Course material and small tools for testing coding agents in software development. The
+model varies from one run to the next; what you can change is the harness around it, so we
+rebuild each piece of that harness by hand and measure what it actually changes.
 
 Everything here was written for the [IA4Dev training school](https://ia4dev-2026.sciencesconf.org/)
 (19 to 22 October 2026), for people in higher education and research who already code. The
